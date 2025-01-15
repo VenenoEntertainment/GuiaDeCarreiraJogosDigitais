@@ -1,0 +1,169 @@
+const careers = [
+  {
+    area: "Agência de Publicidade",
+    professions: [
+      {
+        id: 1,
+        name: "Animador",
+        description: "Cria animações para campanhas publicitárias.",
+        salaryRange: "R$ 3.000 - R$ 8.000",
+        mainDegrees: ["Design Gráfico", "Animação", "Comunicação Visual"]
+      },
+      {
+        id: 2,
+        name: "Designer",
+        description: "Desenvolve conceitos visuais e layouts.",
+        salaryRange: "R$ 3.500 - R$ 9.000",
+        mainDegrees: ["Design Gráfico", "Design de Interiores", "Comunicação Visual"]
+      },
+      {
+        id: 3,
+        name: "Engenheiro de Som",
+        description: "Trabalha na produção e mixagem de áudio.",
+        salaryRange: "R$ 4.000 - R$ 10.000",
+        mainDegrees: ["Engenharia de Áudio", "Produção Musical", "Comunicação Social"]
+      },
+      {
+        id: 4,
+        name: "Produtor Executivo",
+        description: "Gerencia a produção de projetos publicitários.",
+        salaryRange: "R$ 5.000 - R$ 12.000",
+        mainDegrees: ["Administração", "Publicidade e Propaganda", "Marketing"]
+      },
+      {
+        id: 5,
+        name: "Programador",
+        description: "Desenvolve software e aplicativos para campanhas.",
+        salaryRange: "R$ 4.000 - R$ 11.000",
+        mainDegrees: ["Ciência da Computação", "Engenharia de Software", "Sistemas de Informação"]
+      }
+    ]
+  },
+  {
+    area: "Editoras Gráficas",
+    professions: [
+      {
+        id: 8,
+        name: "Animador",
+        description: "Cria animações para publicações digitais.",
+        salaryRange: "R$ 3.000 - R$ 7.500",
+        mainDegrees: ["Design Gráfico", "Animação", "Comunicação Visual"]
+      },
+      {
+        id: 9,
+        name: "Designer",
+        description: "Desenvolve layouts e artes para impressos.",
+        salaryRange: "R$ 3.500 - R$ 8.500",
+        mainDegrees: ["Design Gráfico", "Design de Interiores", "Comunicação Visual"]
+      },
+      {
+        id: 10,
+        name: "Engenheiro de Som",
+        description: "Trabalha em projetos de áudio para livros e revistas.",
+        salaryRange: "R$ 4.000 - R$ 9.000",
+        mainDegrees: ["Engenharia de Áudio", "Produção Musical", "Comunicação Social"]
+      },
+      {
+        id: 13,
+        name: "Produtor Executivo",
+        description: "Coordena a produção de material gráfico.",
+        salaryRange: "R$ 5.000 - R$ 11.000",
+        mainDegrees: ["Administração", "Publicidade e Propaganda", "Marketing"]
+      },
+      {
+        id: 14,
+        name: "Programador",
+        description: "Desenvolve aplicativos e plataformas para publicações.",
+        salaryRange: "R$ 4.000 - R$ 10.500",
+        mainDegrees: ["Ciência da Computação", "Engenharia de Software", "Sistemas de Informação"]
+      }
+    ]
+  },
+  {
+    area: "Empresas de Produção Web",
+    professions: [
+      
+    ]
+  },
+  {
+    area: "Empresas de Simulação",
+    professions: [
+      {
+        id: 22,
+        name: "Animador",
+        description: "Cria animações para simulações digitais.",
+        salaryRange: "R$ 3.000 - R$ 8.500",
+        mainDegrees: ["Design Gráfico", "Animação", "Comunicação Visual"]
+      },
+      {
+        id: 23,
+        name: "Designer",
+        description: "Desenvolve interfaces visuais para simulações.",
+        salaryRange: "R$ 3.500 - R$ 9.000",
+        mainDegrees: ["Design Gráfico", "Design de Interiores", "Comunicação Visual"]
+      },
+      {
+        id: 24,
+        name: "Engenheiro de Som",
+        description: "Trabalha no áudio para simulações realísticas.",
+        salaryRange: "R$ 4.000 - R$ 10.500",
+        mainDegrees: ["Engenharia de Áudio", "Produção Musical", "Comunicação Social"]
+      },
+      {
+        id: 25,
+        name: "Game Designer",
+        description: "Cria mecânicas de simulação para treinamentos.",
+        salaryRange: "R$ 4.500 - R$ 12.000",
+        mainDegrees: ["Design de Jogos", "Ciência da Computação", "Engenharia de Software"]
+      },
+      {
+        id: 26,
+        name: "Level Designer",
+        description: "Desenvolve níveis para simulações interativas.",
+        salaryRange: "R$ 4.000 - R$ 11.500",
+        mainDegrees: ["Design de Jogos", "Ciência da Computação", "Engenharia de Software"]
+      },
+      {
+        id: 27,
+        name: "Produtor Executivo",
+        description: "Gerencia projetos de simulação.",
+        salaryRange: "R$ 5.000 - R$ 13.000",
+        mainDegrees: ["Administração", "Publicidade e Propaganda", "Marketing"]
+      },
+      {
+        id: 28,
+        name: "Programador",
+        description: "Desenvolve software de simulação.",
+        salaryRange: "R$ 4.000 - R$ 12.000",
+        mainDegrees: ["Ciência da Computação", "Engenharia de Software", "Sistemas de Informação"]
+      }
+    ]
+  },
+  {
+    area: "Empresas de Software",
+    professions: [
+      {
+        id: 29,
+        name: "Animador",
+        description: "Cria animações para interfaces de software.",
+        salaryRange: "R$ 3.000 - R$ 8.000",
+        mainDegrees: ["Design Gráfico", "Animação", "Comunicação Visual"]
+      },
+      {
+        id: 30,
+        name: "Designer",
+        description: "Desenvolve design de interfaces e UX.",
+        salaryRange: "R$ 3.500 - R$ 9.500",
+        mainDegrees: ["Design Gráfico", "Design de Interiores", "Comunicação Visual"]
+      },
+      {
+        id: 31,
+        name: "Engenheiro de Som",
+        description: "Produz áudio para softwares e aplicativos.",
+        salaryRange: "R$ 4.000 - R$ 10.500",
+        mainDegrees: ["Engenharia de Áudio", "Produção Musical", "Comunicação Social"]
+      },
+      {
+        id: 32,
+        name: "Game Designer",
+        description: "Cria elementos de gamificação em
