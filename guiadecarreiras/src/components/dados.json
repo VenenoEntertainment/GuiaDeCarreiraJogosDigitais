@@ -1,0 +1,369 @@
+{
+    "areas": [
+      {
+        "titulo": "Animador",
+        "descricao": "Responsável pela criação das animações dos personagens e objetos dentro do jogo. Trabalha para que os movimentos sejam fluidos e realistas, colaborando com os designers de personagens e programadores para implementar as animações no jogo.",
+        "habilidades": [
+          "Domínio de Ferramentas de Animação: Proficiência em softwares de animação como Autodesk Maya, Adobe After Effects, Blender e 3ds Max para criar animações 2D e 3D.",
+          "Compreensão de Anatomia e Movimento: Conhecimento aprofundado da anatomia humana e animal, além da mecânica do movimento, para criar animações realistas e fluidas.",
+          "Arte e Design: Habilidade artística para desenhar personagens e cenários, além de uma compreensão sólida dos princípios de design e composição visual.",
+          "Timing e Espaçamento: Capacidade de aplicar princípios de timing e espaçamento nas animações para criar movimentos naturais e convincentes.",
+          "Storyboarding: Competência em criar storyboards que planejem e organizem sequências de animação, facilitando a compreensão e execução das cenas.",
+          "Criatividade e Inovação: Capacidade de desenvolver conceitos e ideias únicas que tornam as animações interessantes e envolventes.",
+          "Atenção aos Detalhes: Precisão minuciosa na criação de detalhes que dão vida aos personagens e ambientes, como expressões faciais e movimentos sutis.",
+          "Edição e Pós-produção: Habilidade em editar e refinar animações, adicionando efeitos visuais e sonoros para aprimorar a experiência final.",
+          "Trabalho em Equipe: Capacidade de colaborar efetivamente com outros membros da equipe de desenvolvimento, como artistas, programadores e designers, para garantir uma visão coesa e integrada do projeto.",
+          "Adaptabilidade: Flexibilidade para se adaptar a diferentes estilos artísticos e técnicas de animação, dependendo das necessidades do projeto.",
+          "Comunicação: Excelentes habilidades de comunicação para interpretar briefs e feedbacks, garantindo que as animações atendam às expectativas do projeto e dos stakeholders."
+        ],
+        "salario_medio": "R$ 3.475,96",
+        "faixa_salarial": "R$ 2.100 e R$ 5.000",
+        "livros_didaticos": "20 Livros de Desenho Grátis",
+        "graduacao1": {
+          "titulo": "Principais Graduações",
+          "opcoes": [
+            "Faculdade Mélies - Inscrição",
+            "Universidade de São Paulo (USP) - Grade Curricular",
+            "Centro Universitário Ruy Barbosa (UniRuy) - Inscrição",
+            "Universidade Presbiteriana Mackenzie (MACKENZIE) - Inscrição"
+          ]
+        },
+        "graduacao2": {
+          "titulo": "Motion Graphics",
+          "opcoes": [
+            "Faculdade Mélies - Inscrição",
+            "Saga - Inscrição",
+            "Escola Britânica de artes criativas & tecnologia - Inscrição",
+            "Senac - Inscrição e grade curricular"
+          ]
+        },
+        "graduacao3": {
+          "titulo": "Cinema de Animação",
+          "opcoes": [
+            "Universidade Federal de Pelotas (UFPEL) - Inscrição e grade curricular",
+            "Universidade Federal de Minas Gerais (UFMG) - Inscrição e grade curricular"
+          ]
+        }
+      },
+      {
+        "titulo": "Designer",
+        "descricao": "Cria os visuais dos personagens e cenários, garantindo que eles estejam alinhados com a visão artística do jogo. Utiliza software de modelagem 3D e técnicas de ilustração para dar vida aos elementos visuais do jogo.",
+        "habilidades": [
+          "Criatividade e Inovação: Capacidade de conceber personagens únicos e cenários cativantes que enriquecem a narrativa do jogo e cativam o público.",
+          "Habilidade Artística: Domínio de técnicas de desenho e ilustração, permitindo a criação de personagens e ambientes visualmente atraentes.",
+          "Conhecimento em Software de Design: Proficiência em ferramentas como Adobe Photoshop, Illustrator, Blender e software de modelagem 3D como Maya ou ZBrush.",
+          "Compreensão de Anatomia e Movimento: Entendimento da anatomia humana e animal, além da mecânica de movimento, para criar personagens realistas e animados.",
+          "Design de Conceito (Concept Art): Capacidade de desenvolver esboços e artes conceituais que guiam a produção artística do jogos.",
+          "Atenção aos Detalhes: Foco minucioso em detalhes, desde a textura das superfícies até os trajes dos personagens, garantindo uma experiência visual rica e imersiva.",
+          "Narrativa Visual: Habilidade de contar histórias e transmitir emoções através de elementos visuais, criando uma conexão profunda com os jogadores.",
+          "Trabalho em Equipe: Colaborar eficazmente com outros artistas, programadores e designers para garantir uma visão coesa e harmoniosa do projeto.",
+          "Compreensão de Estilos Visuais: Flexibilidade para trabalhar com diferentes estilos artísticos, do realismo à arte estilizada, adaptando-se às necessidades do projeto.",
+          "Atualização Contínua: Manter-se atualizado com as tendências e inovações na arte digital e nos jogos, aprimorando constantemente suas habilidades e técnicas."
+        ],
+        "salario_medio": "R$ 4.196,96",
+        "faixa_salarial": "R$ 2.100 e R$ 10.200",
+        "livros_didaticos": "20 Livros de Desenho Grátis",
+        "graduacao1": {
+          "titulo": "Principais Graduações",
+          "opcoes": [
+            "Universidade de São Paulo (USP) - Grade Curricular",
+            "Centro Universitário Belas Artes de São Paulo - Inscrição e grade curricular",
+            "Saga - Inscrição e grade curricular",
+            "Universidade Presbiteriana Mackenzie (MACKENZIE) - Inscrição e grade curricular"
+          ]
+        },
+        "graduacao2": {
+          "titulo": "Artes Cênicas",
+          "opcoes": [
+            "SP Escola de Teatro - Centro de Formação das Artes do Palco - Inscrição",
+            "Escola de Arte Dramática (EAD-USP) - Inscrição",
+            "Incenna Escola de Teatro e Televisão - Inscrição",
+            "Escola de Arte Dramática da Universidade Estadual de Campinas (EAD-UNICAMP) - Inscrição"
+          ]
+        },
+        "graduacao3": {
+          "titulo": "Arquitetura e Urbanismo",
+          "opcoes": [
+            "Universidade de São Paulo (USP) - Grade Curricular",
+            "Universidade Estadual de Campinas (UNICAMP) - Mais informações",
+            "Universidade Presbiteriana Mackenzie (MACKENZIE) - Inscrição e grade curricular",
+            "Centro Universitário Belas Artes de São Paulo (FEBASP) - Inscrição"
+          ]
+        }
+      },
+      {
+        "titulo": "Engenheiro de som",
+        "descricao": "Cuida da composição e mixagem de trilha sonora, efeitos sonoros e diálogos. Trabalha para criar um ambiente sonoro que complemente a experiência visual e de jogo, utilizando ferramentas de áudio para produzir sons de alta qualidade.",
+        "habilidades": [
+          "Design de Áudio: Habilidade para criar sons e trilhas sonoras que se encaixam perfeitamente no contexto do jogo e elevam a experiência do jogador.",
+          "Captura e Gravação de Áudio: Conhecimento em técnicas de gravação de som, incluindo o uso de microfones, mixers e softwares de gravação para capturar sons de alta qualidade.",
+          "Mixagem e Masterização: Competência em mixar várias trilhas sonoras e efeitos sonoros para criar uma mixagem coesa e profissional. Masterizar o áudio para garantir que soa bem em todos os sistemas de som.",
+          "Edição de Som: Habilidade para editar e ajustar gravações de áudio, removendo ruídos indesejados e ajustando níveis para obter o melhor resultado possível.",
+          "Implementação de Áudio no Jogo: Conhecimento de ferramentas como FMOD, Wwise e integração de áudio nos motores de jogo como Unity e Unreal Engine.",
+          "Criatividade e Inovação: Capacidade de criar sons únicos e originais que diferenciam o jogo e melhoram a imersão do jogador.",
+          "Conhecimento de Música: Habilidade em compor música, compreensão de teoria musical e capacidade de criar trilhas sonoras que complementam a narrativa do jogo.",
+          "Atenção aos Detalhes: Precisão na criação e implementação de efeitos sonoros, garantindo que cada som contribua para a imersão e jogabilidade.",
+          "Trabalho em Equipe: Colaborar eficazmente com designers de jogos, programadores e outros membros da equipe de desenvolvimento para garantir que o áudio se integre perfeitamente com outros elementos do jogo.",
+          "Resolução de Problemas: Capacidade de solucionar problemas de áudio rapidamente, garantindo que o som funcione corretamente em diferentes dispositivos e ambientes.",
+          "Comunicação: Excelentes habilidades de comunicação para interpretar direções criativas e feedbacks, garantindo que o áudio atenda às expectativas do projeto.",
+          "Adaptabilidade: Flexibilidade para trabalhar em uma variedade de projetos, desde jogos de ação rápidos até jogos de aventura imersivos, ajustando estilos e técnicas conforme necessário."
+        ],
+        "salario_medio": "R$ 2.494",
+        "faixa_salarial": "R$ 1.796 e R$ 3.434",
+        "livros_didaticos": "Apostilas de Aúdio",
+        "graduacao1": {
+          "titulo": "Produção Musical",
+          "opcoes": [
+            "Escola de Música do Estado de São Paulo (EMESP) Tom Jobim - Reconhecida pela sua excelência e pela formação de diversos profissionais de destaque no cenário musical brasileiro.",
+            "Studio Meyer - Fundada em 1996, oferece cursos focados em prática em grupo e tem uma boa reputação no ensino de produção musical.",
+            "Playad - Oferece cursos de DJ e produção musical, com foco em desenvolvimento artístico e formação de novos artistas.",
+            "2600Hz Criações Musicais - Especializada em produção musical e áudio profissional, oferece cursos de alta qualidade e certificações reconhecidas"
+          ]
+        },
+        "graduacao2": {
+          "titulo": "Engenharia de Áudio",
+          "opcoes": [
+            "Universidade de São Paulo (USP) - A Escola Politécnica da USP oferece um programa robusto de Engenharia de Áudio, com foco em práticas e teorias modernas.",
+            "Universidade Presbiteriana Mackenzie (MACKENZIE) - Conhecida por sua abordagem prática e teórica, a Mackenzie oferece um curso abrangente de Engenharia de Áudio.",
+            "Centro Universitário Ruy Barbosa (UniRuy) - Oferece um programa focado em inovação e prática, preparando os alunos para o mercado de trabalho.",
+            "Universidade Estadual de Campinas (UNICAMP) - A UNICAMP é reconhecida por sua excelência em pesquisa e ensino, incluindo Engenharia de Áudio."
+          ]
+        },
+        "graduacao3": {
+          "titulo": "Música",
+          "opcoes": [
+            "Escola de Música do Estado de São Paulo (EMESP) Tom Jobim - Reconhecida pela sua excelência e pela formação de diversos profissionais de destaque no cenário musical brasileiro.",
+            "Universidade de São Paulo (USP) - A Escola de Comunicação e Artes da USP oferece um programa robusto de Música, com foco em práticas e teorias modernas.",
+            "Souza Lima - Conservatório e Faculdade de Música - Conhecida por sua abordagem prática e teórica, oferece cursos de alta qualidade em Música.",
+            "Pontifícia Universidade Católica de São Paulo (PUC-SP) - Oferece um curso abrangente de Música, com ênfase em práticas e teorias modernas."
+          ]
+        },
+        "graduacao4": {
+          "titulo": "Tecnologia em Produção Fonográfica",
+          "opcoes": [
+            "Universidade de São Paulo (USP) - A USP oferece programas robustos de tecnologia e produção fonográfica através da Escola de Comunicação e Artes.",
+            "Pontifícia Universidade Católica de São Paulo (PUC-SP) - Conhecida por sua abordagem prática e teórica, a PUC-SP oferece um curso abrangente de Produção Fonográfica.",
+            "Faculdade Mélies - Especializada em artes digitais e produção fonográfica, a Mélies oferece cursos de alta qualidade.",
+            "Centro Universitário Ruy Barbosa (UniRuy) - Conhecido por sua abordagem prática e foco em inovação, o UniRuy oferece um curso de Tecnologia em Produção Fonográfica."
+          ]
+        }
+      },
+          {
+            "titulo": "Game Designer",
+            "descricao": "Responsável pela criação e execução da ideia e do projeto inicial de um jogo. Desenvolve a mecânica do jogo, regras, história e outros elementos essenciais para garantir uma experiência de jogo envolvente e divertida.",
+            "habilidades": [
+              "Criatividade e Imaginação: Desenvolver ideias inovadoras e conceitos únicos para jogos.",
+              "Conhecimento Técnico: Familiaridade com ferramentas e linguagens de programação utilizadas no mercado.",
+              "Gestão de Projetos: Organizar e gerenciar o desenvolvimento de jogos desde a concepção até a finalização.",
+              "Trabalho em Equipe: Colaborar efetivamente com artistas, programadores e outros profissionais da área.",
+              "Resolução de Problemas: Enfrentar e resolver desafios técnicos e criativos durante o desenvolvimento do jogo."
+            ],
+            "salario_medio": "R$ 4.196,96",
+            "faixa_salarial": "R$ 3.332 a R$ 10.200 por mês",
+            "livros_didaticos": [
+              "Design e Desenvolvimento de Jogos",
+              "Desenvolvimento de Jogos com Unity: Praticando do Básico ao Avançado",
+              "Desenvolvimento de Games",
+              "Introdução ao Desenvolvimento de Games: Programação: Técnica, Linguagem e Arquitetura (Volume 2)",
+              "Level design no desenvolvimento de games",
+              "Programação aplicada a Games",
+              "Introdução ao Desenvolvimento de Jogos em Python com PyGame",
+              "Design de cenários de videogames",
+              "TDD para Games: Desenvolvimento guiado a testes para jogos digitais"
+            ],
+            "graduacao1": {
+              "titulo": "Design de Jogos Digitais",
+              "opcoes": [
+                "Jogos Digitais - Universidade Paulista (UNIP): Inscrição e grade curricular",
+                "Jogos Digitais - Pontifícia Universidade Católica de São Paulo (PUC-SP): Inscrição e grade curricular",
+                "Jogos Digitais - Centro Universitário Senac: Inscrição e grade curricular",
+                "Jogos Digitas - Universidade Anhembi Morumbi: Inscrição"
+              ]
+            },
+            "graduacao2": {
+              "titulo": "Design",
+              "opcoes": [
+                "Design - Universidade de São Paulo (USP) : Grade curricular",
+                "Design - Pontifícia Universidade Católica de São Paulo (PUC-SP): Inscrição e grade curricular",
+                "Artes Cênicas - Escola Superior de Artes Célia Helena : Inscrição e grade curricular",
+                "Design Grafico e Digital - Instituto Europeu di Design (IED): Inscrição e grade curricular"
+              ]
+            },
+            "graduacao3": {
+              "titulo": "Artes Visuais",
+              "opcoes": [
+                "Universidade de São Paulo (USP)",
+                "Arte: História, Crítica e Curadoria - Pontifícia Universidade Católica de São Paulo (PUC-SP) - Inscrição e grade curricular",
+                "Artes Plásticas - Escola Panamericana de Arte: Inscrição",
+                "Design Gráfico e Digital - Instituto Europeu de Design (IED): Inscrição"
+              ]
+            },
+            "graduacao4": {
+              "titulo": "Computação Gráfica",
+              "opcoes": [
+                "Matte Painting para cinema, publicidade e games - Escola Britanica de Artes Criativas & Tecnologia - Inscrição e grade curricular",
+                "Computação Grafica - Senac - Inscrição e Grade Curricular",
+                "Computação Grafica - Cruzeiro do sul Virtual - Inscrição e grade curricular",
+                "Modelagem e Animação 3D - Saga - Inscrição e Grade Curricular"
+              ]
+            },
+            "graduacao5": {
+              "titulo": "Design de Interação",
+              "opcoes": [
+                "UX/UI Designer - Escola Britanica de artes criativas & Tecnologia - Inscrição e grade curricular",
+                "Design de Produto e Serviço - Instituto Europeu de Design (IED) - Inscrição e grade curricular",
+                "User Interface Design - Belas Artes - Inscrição e grade curricular",
+                "UX Design - ESPM - Inscrição e grade curricular"
+              ]
+            }
+        },
+        {
+            "titulo": "Level Designer",
+            "descricao": "Focado no design dos níveis e ambientes dentro do jogo. Planeja e estrutura os desafios, missões e interações que os jogadores irão enfrentar, assegurando que o design dos níveis esteja de acordo com a mecânica e a narrativa do jogo.",
+            "habilidades": [
+              "Design de Níveis: Capacidade de planejar e criar níveis envolventes, desafiadores e equilibrados que proporcionem uma experiência agradável para os jogadores.",
+              "Conhecimento de Mecânicas de Jogo: Entendimento profundo das mecânicas de jogo para garantir que os níveis sejam coerentes com a jogabilidade e os objetivos do jogo.",
+              "Ferramentas de Desenvolvimento: Proficiência em ferramentas de design de níveis, como Unity, Unreal Engine, Blender, e outras ferramentas de modelagem e construção de ambientes.",
+              "Narrativa Visual: Habilidade para contar histórias através do design de níveis, criando ambientes que transmitam a narrativa e emoções desejadas.",
+              "Atenção aos Detalhes: Precisão na criação de detalhes que enriquecem os níveis, desde a colocação de objetos até a iluminação e textura.",
+              "Equilíbrio e Ritmo: Capacidade de criar um fluxo de jogo que equilibre desafio e recompensa, mantendo os jogadores engajados e motivados.",
+              "Teste e Ajuste: Habilidade de testar níveis repetidamente e fazer ajustes baseados no feedback, garantindo uma experiência de jogo polida e sem falhas.",
+              "Criatividade e Inovação: Capacidade de conceber e implementar ideias novas e inovadoras que diferenciem o jogo dos concorrentes.",
+              "Trabalho em Equipe: Colaborar eficientemente com outros designers, programadores, artistas e engenheiros de som para criar um produto final coeso e integrado.",
+              "Compreensão de Psicologia do Jogador: Conhecimento sobre como os jogadores interagem com o jogo e o que os motiva, para projetar níveis que sejam intuitivos e satisfatórios.",
+              "Uso de Feedback: Capacidade de analisar e interpretar feedback de testes de jogabilidade e fazer os ajustes necessários para melhorar a experiência do jogador.",
+              "Gestão de Projetos: Organização e capacidade de gerenciar múltiplas tarefas e prazos, garantindo que os níveis sejam entregues a tempo e com qualidade."
+            ],
+            "salario_medio": "R$ 4.726,47",
+            "faixa_salarial": "R$ 4.597,39 a R$ 11.012,39",
+            "livros_didaticos": "20 Livros de Desenho Grátis",
+            "graduacao1": {
+              "titulo": "Design de Ambientes Virtuais",
+              "opcoes": [
+                "Escola Britânica de Artes Criativas & Tecnologia - Inscrição",
+                "Universidade de São Paulo (USP) - Inscrição",
+                "Centro Universitário Ruy Barbosa (UniRuy) -",
+                "Universidade Presbiteriana Mackenzie (MACKENZIE) -"
+              ]
+            },
+            "graduacao2": {
+              "titulo": "Design de Produto",
+              "opcoes": [
+                "Universidade de São Paulo (USP) -",
+                "Pontifícia Universidade Católica de São Paulo (PUC-SP) -",
+                "Faculdade Mélies -",
+                "Centro Universitário Ruy Barbosa (UniRuy) -"
+              ]
+            },
+            "graduacao3": {
+              "titulo": "Design de Interação",
+              "opcoes": [
+                "Universidade de São Paulo (USP) -",
+                "Pontifícia Universidade Católica de São Paulo (PUC-SP) -",
+                "Faculdade Mélies -",
+                "Centro Universitário Ruy Barbosa (UniRuy) -"
+              ]
+            }
+        },
+              {
+                "titulo": "Produtor Executivo",
+                "descricao": "Supervisiona a gestão e coordenação de toda a produção de um jogo. Garante que os prazos sejam cumpridos, que o orçamento seja respeitado e que a visão do projeto seja mantida. Atua como um elo entre os diferentes departamentos e stakeholders do projeto.",
+                "habilidades": [
+                  "Gestão de Projetos: Capacidade de planejar, organizar e supervisionar todas as etapas da produção de um jogo, garantindo que os prazos sejam cumpridos e os orçamentos não sejam ultrapassados.",
+                  "Liderança: Habilidade para liderar e motivar uma equipe multidisciplinar, incluindo designers, programadores, artistas e engenheiros de som, mantendo todos alinhados com a visão e os objetivos do projeto.",
+                  "Comunicação: Excelentes habilidades de comunicação para facilitar a colaboração entre diferentes departamentos e assegurar que todos os membros da equipe estejam bem informados e engajados.",
+                  "Conhecimento Técnico: Entendimento aprofundado das tecnologias utilizadas no desenvolvimento de jogos, permitindo a tomada de decisões informadas e a resolução eficiente de problemas técnicos.",
+                  "Visão Criativa: Capacidade de compreender e nutrir a visão artística e criativa do projeto, garantindo que o produto final seja inovador e atraente para os jogadores.",
+                  "Gestão de Recursos: Eficiência na alocação e utilização de recursos, incluindo tempo, pessoal e orçamento, para maximizar a produtividade e a qualidade do produto.",
+                  "Resolução de Problemas: Habilidade para identificar e resolver problemas rapidamente, minimizando atrasos e mantendo o projeto no caminho certo.",
+                  "Negociação: Aptidão para negociar com investidores, patrocinadores e outros stakeholders, assegurando financiamento e suporte necessários para o sucesso do projeto.",
+                  "Conhecimento de Mercado: Compreensão das tendências e demandas do mercado de jogos, permitindo a criação de produtos que atendam às expectativas dos consumidores e se destacam na indústria.",
+                  "Multitarefa: Capacidade de gerenciar múltiplas tarefas e prioridades simultaneamente, garantindo que todos os aspectos do projeto sejam tratados de maneira eficiente e eficaz."
+                ],
+                "salario_medio": "R$ 3.698,00",
+                "faixa_salarial": "R$ 3.000,00 a R$ 6.000,00",
+                "livros_didaticos": "15 Livros de Administração de Empresas Grátis",
+                "graduacao1": {
+                  "titulo": "Gestão de Projetos",
+                  "opcoes": [
+                    "Universidade de São Paulo (USP) - Inscrição e grade curricular",
+                    "Pontifícia Universidade Católica de São Paulo (PUC-SP) - Inscrição e grade curricular",
+                    "Universidade Nove de Julho (UNINOVE) - Inscrição e grade curricular",
+                    "Universidade Presbiteriana Mackenzie (MACKENZIE) - Inscrição e grade curricular"
+                  ]
+                },
+                "graduacao2": {
+                  "titulo": "Administração",
+                  "opcoes": [
+                    "Universidade de São Paulo (USP) - Grade curricular",
+                    "Escola de Administração de Empresas de São Paulo da Fundação Getulio Vargas (FGV-SP) - Inscrição e grade curricular",
+                    "Pontifícia Universidade Católica de São Paulo (PUC-SP) - Inscrição e grade curricular",
+                    "Centro Universitário São Camilo - Inscrição e grade curricular"
+                  ]
+                },
+                "graduacao3": {
+                  "titulo": "Produção Multimídia",
+                  "opcoes": [
+                    "Senac - Inscrição e grade curricular",
+                    "Pontifícia Universidade Católica de Minas Gerais (PUC-MG) - Inscrição e grade curricular",
+                    "Escola de Comunicação e Artes da USP - Inscrição e grade curricular",
+                    "Centro Universitário Ruy Barbosa (UniRuy) - Inscrição"
+                  ]
+                },
+                "graduacao4": {
+                  "titulo": "Ciencias Sociais",
+                  "opcoes": [
+                    "Universidade de São Paulo (USP) - Grade curricular",
+                    "Pontifícia Universidade Católica de São Paulo (PUC-SP) - Inscrição e grade curricular",
+                    "Universidade Nove de Julho (UNINOVE) - Inscrição e grade curricular",
+                    "Universidade Presbiteriana Mackenzie (MACKENZIE) - Inscrição e grade curricular"
+                  ]
+                }
+            },
+            {
+              "titulo": "Programador de Jogos Digitais",
+              "descricao": "Focado no desenvolvimento técnico do jogo, cuida dos comportamentos e movimentos dos personagens, bem como da implementação de sistemas e funcionalidades dentro do jogo. Domina linguagens de programação e trabalha em conjunto com o time de design e arte.",
+              "habilidades": [
+                "Linguagens de Programação: Domínio de linguagens como C++, C#, Python e JavaScript, essenciais para o desenvolvimento de jogos.",
+                "Desenvolvimento de Personagens e Ambientes: Habilidade em criar e animar personagens e cenários em 2D e 3D, utilizando ferramentas como Unity e Unreal Engine.",
+                "Design de Mecânicas de Jogo: Capacidade de implementar mecânicas de jogo que proporcionem uma experiência envolvente e desafiadora para os jogadores.",
+                "Inteligência Artificial: Desenvolver algoritmos que permitam comportamentos realistas e desafiadores dos personagens e inimigos.",
+                "Depuração e Testes: Competência em identificar e corrigir bugs, garantindo que o jogo funcione perfeitamente.",
+                "Trabalho em Equipe: Colaborar eficazmente com designers, artistas, engenheiros de som e outros profissionais envolvidos no desenvolvimento de jogos.",
+                "Gestão de Projetos: Planejar, organizar e gerenciar o desenvolvimento de projetos de jogos, garantindo o cumprimento de prazos e orçamentos.",
+                "Pensamento Crítico e Criativo: Resolver problemas de forma eficiente e trazer ideias inovadoras para o design e desenvolvimento de jogos."
+              ],
+              "salario_medio": "R$ 3.250",
+              "faixa_salarial": "R$ 2.392 e R$ 5.500",
+              "livros_didaticos": "",
+              "graduacao1": {
+                "titulo": "Ciência da Computação",
+                "opcoes": [
+                  "Universidade de São Paulo (USP) - Grade curricular.",
+                  "Universidade Estadual de Campinas (UNICAMP) - Mais Informações",
+                  "Universidade Federal de São Paulo (UNIFESP) - Grade curricular.",
+                  "Universidade Presbiteriana Mackenzie (MACKENZIE) - Inscrição"
+                ]
+              },
+              "graduacao2": {
+                "titulo": "Engenharia de Software",
+                "opcoes": [
+                  "Universidade de São Paulo (USP) - Grade curricular.",
+                  "Universidade Estadual de Campinas (UNICAMP) - Mais Informações",
+                  "Universidade Federal de São Paulo (UNIFESP) - Grade Curricular",
+                  "Pontifícia Universidade Católica de São Paulo (PUC-SP) - Inscrição e grade curricular"
+                ]
+              },
+              "graduacao3": {
+                "titulo": "Tecnologia da Informação",
+                "opcoes": [
+                  "Universidade de São Paulo (USP) - Grade curricular",
+                  "Pontifícia Universidade Católica de São Paulo (PUC-SP) - Inscrição e grade curricular",
+                  "Universidade Nove de Julho (UNINOVE) - Inscrição e grade curricular",
+                  "Centro Universitário Ruy Barbosa (UniRuy) - Inscrição"
+                ]
+              }
+            }                
+    ]
+  }
+  

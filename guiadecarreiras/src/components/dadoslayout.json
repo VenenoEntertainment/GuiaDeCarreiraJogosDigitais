@@ -1,0 +1,97 @@
+{
+    "areas": [
+      {
+        "titulo": "",
+        "descricao": "",
+        "habilidades": [
+          "",
+          "",
+          "",
+          "",
+          "",
+          "",
+          "",
+          "",
+          "",
+          "",
+          ""
+        ],
+        "salario_medio": "",
+        "faixa_salarial": "",
+        "livros_didaticos": "",
+        "graduacao1": {
+          "titulo": "",
+          "opcoes": [
+            "",
+            "",
+            "",
+            ""
+          ]
+        },
+        "graduacao2": {
+          "titulo": "",
+          "opcoes": [
+            "",
+            "",
+            "",
+            ""
+          ]
+        },
+        "graduacao3": {
+          "titulo": "",
+          "opcoes": [
+            "",
+            "",
+            ""
+          ]
+        }
+      },
+      {
+        "titulo": "",
+        "descricao": "",
+        "habilidades": [
+          "",
+          "",
+          "",
+          "",
+          "",
+          "",
+          "",
+          "",
+          "",
+          "",
+          ""
+        ],
+        "salario_medio": "",
+        "faixa_salarial": "",
+        "livros_didaticos": "",
+        "graduacao1": {
+          "titulo": "",
+          "opcoes": [
+            "",
+            "",
+            "",
+            ""
+          ]
+        },
+        "graduacao2": {
+          "titulo": "",
+          "opcoes": [
+            "",
+            "",
+            "",
+            ""
+          ]
+        },
+        "graduacao3": {
+          "titulo": "",
+          "opcoes": [
+            "",
+            "",
+            ""
+          ]
+        }
+      }
+    ]
+  }
+  

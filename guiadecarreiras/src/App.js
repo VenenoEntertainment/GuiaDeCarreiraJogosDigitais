@@ -1,16 +1,20 @@
-import React, { useState } from 'react';
-import CareerList from './components/CareerList';
-import CareerDetail from './components/CareerDetail';
-import careers from './data/careers';
+import React from 'react';
+import { Routes , Route } from 'react-router-dom';
+import Home from './components/Home';
+import Market from './components/Market';
+import Career from './components/Career';
 
 function App() {
-  const [selectedCareer, setSelectedCareer] = useState(null);
+
 
   return (
     <div className="App">
-      <h1>Guia de Carreiras</h1>
-      <CareerList careers={careers} onSelectCareer={setSelectedCareer} />
-      <CareerDetail profession={selectedCareer} />
+      <Routes>
+        <Route exact path='/' element={<Home/>}/>
+        <Route exact path='/Market' element={<Market/>}/>
+        <Route exact path='/Career' element={<Career/>}/>
+      </Routes>
+
     </div>
   );
 }
